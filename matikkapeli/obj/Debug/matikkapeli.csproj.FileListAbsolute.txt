@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\bin\Debug\matikkapeli.exe.config
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\bin\Debug\matikkapeli.exe
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\bin\Debug\matikkapeli.pdb
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Form1.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Properties.Resources.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.exe
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.pdb
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Form2.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Form3.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Form4.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Form5.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Debug\matikkapeli.Form6.resources

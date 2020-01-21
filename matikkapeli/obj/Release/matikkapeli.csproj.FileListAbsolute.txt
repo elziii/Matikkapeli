@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\bin\Release\matikkapeli.exe.config
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\bin\Release\matikkapeli.exe
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\bin\Release\matikkapeli.pdb
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Form1.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Form2.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Form3.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Form4.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Form5.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Form6.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.Properties.Resources.resources
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.exe
+C:\Users\USER\source\repos\matikkapeli\matikkapeli\obj\Release\matikkapeli.pdb
